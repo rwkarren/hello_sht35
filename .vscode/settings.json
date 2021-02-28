@@ -1,0 +1,20 @@
+{
+  "cmake.statusbar.advanced": {
+    "launch" : {
+      "visibility": "hidden"
+    },
+    // "launchTarget": {
+    //   "visibility": "hidden"
+    // },
+    "debug": {
+      "visibility": "hidden"
+    },
+},
+
+  "cmake.environment":{
+    "PICO_SDK_PATH": "${PICO_SDK_PATH}"
+  },
+  "files.associations": {
+    "cstdio": "cpp"
+  }
+}
